@@ -10,3 +10,5 @@ Toujours :
 - ajouter des commentaires uniquement lorsque cela améliore la compréhension
 - privilégier les petites méthodes
 - éviter les dépendances inutiles
+
+Toutes les méthodes publiques doivent contenir une JavaDoc.
